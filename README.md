@@ -17,7 +17,7 @@ I'm currently learning:
   <img src="https://i.imgur.com/vfjbChl.png" alt="npm" height="40" style="vertical-align: top; margin: 4px">
 </p>
 
-
+![trophy](https://github-profile-trophy.vercel.app/?username=Takiyo0&theme=onedark)
 
 ![Readme Card](https://github-readme-stats.vercel.app/api?username=Takiyo0&show_icons=true&theme=radical)
 ![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Takiyo0&show_icons=true&theme=radical)
