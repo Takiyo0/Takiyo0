@@ -11,7 +11,7 @@ I'm currently learning:
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" height="40" style="vertical-align: top; margin: 4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" height="40" style="vertical-align: top; margin: 4px">
   <img src="https://i.imgur.com/iyCgQBm.png" alt="mongodb" height="40" style="vertical-align: top; margin: 4px">
-  <img src="https://i.imgur.com/MGCDBYq.png" alt="nodejs" height="40" style="vertical-align: top; margin: 4px">
+  <img src="https://i.imgur.com/jcWxNoR.png" alt="electron" height="40" style="vertical-align: top; margin: 4px">
   <img src="https://i.imgur.com/TY99Kd0.png" alt="reactjs" height="40" style="vertical-align: top; margin: 4px">
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" height="40" style="vertical-align: top; margin: 4px">
   <img src="https://i.imgur.com/vfjbChl.png" alt="npm" height="40" style="vertical-align: top; margin: 4px">
