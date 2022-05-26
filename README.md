@@ -4,6 +4,8 @@ Takiyo desu~. I love animes so much. Beside that, i love coding too! I'm still a
 I'm a student, so my code time might be divided by my school time :(  
 I know Japanese and am studying it. I usually understand what is being said but it is difficult to talk about it because I can only pronounce it word by word and not make sentences.   
 
+## ⚠️ OUT OF SERVICE FOR 2 WEEKS ☢️
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=takiyo0" alt="takiyo0" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/takiyo0" target="blank"><img src="https://img.shields.io/twitter/follow/takiyo0?logo=twitter&style=for-the-badge" alt="takiyo0" /></a> </p>
